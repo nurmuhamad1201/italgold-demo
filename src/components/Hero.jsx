@@ -20,7 +20,7 @@ export default function Hero() {
     <section ref={ref} className="relative min-h-screen flex items-center justify-center overflow-hidden">
       <motion.img
         style={{ y, opacity }}
-        src="https://images.unsplash.com/photo-1610375461246-83df859d849d?w=1600&q=80"
+       src="https://images.unsplash.com/photo-1547996160-81dfa63595aa?w=1600&q=80"
         alt=""
         className="absolute inset-0 w-full h-full object-cover opacity-40 scale-110"
       />
