@@ -35,14 +35,13 @@ export default function Hero() {
         <motion.p variants={item} className="uppercase tracking-[0.4em] text-gold text-sm mb-6">
           Made in Italy · Dushanbe
         </motion.p>
-       <h1 className="font-serif text-5xl md:text-7xl text-white leading-tight mb-6">
-  Италянское золото<br />
-  
-  <span className="text-gold-light">и натуральные бриллианты</span>
+      <h1 className="font-serif text-5xl md:text-7xl text-white leading-tight mb-6">
+  Итальянское золото,<br />
+  <span className="text-gold-light">бриллианты и часы</span>
 </h1>
 <p className="text-neutral-300 max-w-xl mx-auto mb-10">
-  Эксклюзивные украшения 750 пробы с бриллиантами. Цепи, кольца, браслеты, серьги и печатки —
-  для тех, кто ценит стиль, качество и подлинность.
+  Эксклюзивные украшения 750 пробы, натуральные бриллианты и швейцарские часы.
+  Кольца, серьги, цепи, браслеты и печатки — для женщин и мужчин.
 </p>
         
         <motion.div variants={item} className="flex gap-4 justify-center">
