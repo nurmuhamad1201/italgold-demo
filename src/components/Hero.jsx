@@ -37,6 +37,7 @@ export default function Hero() {
         </motion.p>
        <h1 className="font-serif text-5xl md:text-7xl text-white leading-tight mb-6">
   Италянское золото<br />
+  
   <span className="text-gold-light">и натуральные бриллианты</span>
 </h1>
 <p className="text-neutral-300 max-w-xl mx-auto mb-10">
